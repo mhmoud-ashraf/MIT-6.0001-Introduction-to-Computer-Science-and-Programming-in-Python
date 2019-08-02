@@ -1,7 +1,7 @@
 Problem sets solutions for MIT course 6.0001 Introduction to Computer Science and Programming in Python.
-
-Problem sets: 
-=============
+=========================================================================================================
+Problem sets:
+-------------
 1. Simple python program
 2. House hunting
 3. Hangman game
